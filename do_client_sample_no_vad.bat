@@ -1,0 +1,1 @@
+python .\client_sample_no_vad.py .\arc-easy-q237-tts.mp3 .\test_instructions_for_LMM_soccer_ja.txt .\output\ azure

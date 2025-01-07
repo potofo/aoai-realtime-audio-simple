@@ -1,0 +1,1 @@
+python .\client_sample.py .\arc-easy-q237-tts.mp3 .\output\ azure
